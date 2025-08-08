@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Mapbox</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiYW5zb24tc2FqdS1nZW9yZ2UiLCJhIjoiY2xvYmk2b3lrMGNpMzJqbjZjNWgzN3drNSJ9.ZAMnmweo6j0ZM6cVMV3y8A</string>
+    <style name="Base.Theme.Mapbox" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Mapbox" parent="Base.Theme.Mapbox"/>
+</resources>

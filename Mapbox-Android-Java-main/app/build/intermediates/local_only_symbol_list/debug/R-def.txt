@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable baseline_location_on_24
+drawable baseline_my_location_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id focusLocation
+id mapView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string mapbox_access_token
+style Base.Theme.Mapbox
+style Theme.Mapbox
+xml backup_rules
+xml data_extraction_rules
