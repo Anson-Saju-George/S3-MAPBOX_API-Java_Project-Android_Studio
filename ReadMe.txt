@@ -1,0 +1,1 @@
+Open the Mapbox-Android-Java-main in Android Studio
